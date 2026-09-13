@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "juan",
+        "lastname": "perez",
+        "information": "system access problem",
+        "scope": 3,
+        "priority": "high"
+    },
+    {
+        "id": 3,
+        "name": "carlos",
+        "lastname": "gomez",
+        "information": "network problem",
+        "scope": 10,
+        "priority": "medium"
+    },
+    {
+        "id": 4,
+        "name": "ana",
+        "lastname": "martinez",
+        "information": "application problem",
+        "scope": 2,
+        "priority": "low"
+    },
+    {
+        "id": 5,
+        "name": "pedro",
+        "lastname": "reyes",
+        "information": "aplication problem",
+        "scope": 15,
+        "priority": "high"
+    },
+    {
+        "id": 6,
+        "name": "alex",
+        "lastname": "perez",
+        "information": "aplication problem",
+        "scope": 3,
+        "priority": "low"
+    },
+    {
+        "id": 7,
+        "name": "pedro",
+        "lastname": "feliz",
+        "information": "login problem",
+        "scope": 2,
+        "priority": "low"
+    },
+    {
+        "id": 8,
+        "name": "jose",
+        "lastname": "perez",
+        "information": "login access",
+        "scope": 5,
+        "priority": "high"
+    }
+]
